@@ -2,7 +2,7 @@
 Instant messaging application based on Firebase real-time database.
 
 
-##License
+## License
 
 MIT License
 
